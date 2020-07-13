@@ -1,0 +1,10 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-arrow-left" viewBox="0 0 75 32">
+<path  d="M6.25 17.65l12.973 12.053-2.002 2.297-17.221-16 17.221-16 2.002 2.297-12.973 12.053h69.178v3.3h-69.178z"></path>
+</symbol>
+<symbol id="icon-arrow-right" viewBox="0 0 75 32">
+<path  d="M69.178 14.35l-12.973-12.053 2.002-2.297 17.221 16-17.221 16-2.002-2.297 12.973-12.053h-69.178v-3.3h69.178z"></path>
+</symbol>
+</defs>
+</svg>
