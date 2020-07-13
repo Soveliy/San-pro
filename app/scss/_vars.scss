@@ -13,7 +13,7 @@ $Ruble:"ALS Rubl";
   @media (max-width: 1805px) { @content; }
 }
 @mixin for-xl {
-    @media (min-width: 1024px) and (max-width: 1470px) { @content; }
+    @media  (max-width: 1470px) { @content; }
   }
 
 @mixin for-lg {

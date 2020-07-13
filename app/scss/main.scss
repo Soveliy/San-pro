@@ -625,6 +625,9 @@ header{
     &--6{
         left: 91%;
         top: 56.9%;
+        @include for-xl(){
+            left: 82%;
+        }
         @include for-md(){
             left: 170px;
             top: -22px;
